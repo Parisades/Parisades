@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Parisades
-- 👀 I’m interested in: to code complex things.
-- 🌱 I’m currently learning: nothinge yet because i just made this account.
-- 💞️ I’m looking to collaborate on: no one yet
-- 📫 How to reach me: I'm not open to requests since I'm new here.
-- ❗This will be updated soon.
+Yello! I'm Markus. An idiot that cannot comprehend anything properly.
+-------------------------------------------------------------------------------------------------
 
-<!---
-Parisades/Parisades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Where i'm from: Finland (Vantaa/Helsinki)
+What i usually do: Go outside, play games and code random ass shit.
+Favorite games: ULTRAKILL, Roblox (dont call me cringe) and SCP:SL
+
+Thats probably everything i dunno what to add
+ok_byeeeeeeeee.mp3
